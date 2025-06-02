@@ -1,5 +1,3 @@
-![output3](https://github.com/user-attachments/assets/776767fa-bff8-4f21-a8ab-53bfda799517)
-
 # capture-and-analyze-Network-Traffic-using-Wireshark
  Task 5: Network Traffic Capture and Protocol Analysis using Wireshark on Kali Linux
 
@@ -34,6 +32,6 @@ Key Learnings
 ![output3](https://github.com/user-attachments/assets/488c8140-899e-4c82-b152-237ba8b342b0)
 ![output1](https://github.com/user-attachments/assets/4ce50f90-eb2f-415c-a65d-5e6fa614ddcf)
 ![output5](https://github.com/user-attachments/assets/4bc36dab-f7c2-4d6f-bd8f-aaed3623fb81)
-![output](https://github.com/user-attachments/assets/c48a065b-a237-4843-a755-251991c4b454)
+![output3](https://github.com/user-attachments/assets/776767fa-bff8-4f21-a8ab-53bfda799517)
 
 
